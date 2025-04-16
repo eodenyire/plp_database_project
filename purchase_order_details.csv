@@ -1,0 +1,2 @@
+purchase_order_detail_id,purchase_order_id,product_id,quantity,unit_price
+1,1,1,2,750.00
